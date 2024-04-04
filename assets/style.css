@@ -11,7 +11,7 @@ body {
     width: 100%;
     font-size: 62.5%;
     overflow: hidden;
-    background: linear-gradient(45deg,#ff4b2b,#FFFFFF);
+   background: linear-gradient(to right, #a751f1, #79c0d7);
     font-family: 'Poppins', sans-serif;
 }
 .container {
